@@ -1,6 +1,6 @@
 boto3==1.9.233
 botocore==1.12.233
-bottle==0.12.17
+bottle==0.12.19
 docutils==0.15.2
 jmespath==0.9.4
 python-dateutil==2.8.0
